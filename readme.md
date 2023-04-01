@@ -79,7 +79,7 @@ def replace_linesoferror(error):
 
 PROJECT_NAME = 'НАЗВАНИЕ_ВАШЕГО_ПРОЕКТА'
 
-LOG_SERVICE_URL = 'http://192.168.2.13:8080/api/v1/'
+LOG_SERVICE_URL = 'http://log-service-url/api/v1/'
 
 ```
 
