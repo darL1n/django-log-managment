@@ -20,7 +20,7 @@ Django-Log-Managment - это мощный и гибкий инструмент�
 
 Установить используя `ssh`...
 ```bash
-    git clone git@github.com:%s/%s.git
+git clone git@github.com:%s/%s.git
 ```
 ## Настройка
 
